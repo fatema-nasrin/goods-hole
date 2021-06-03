@@ -1,0 +1,52 @@
+#picture{
+
+    height: 400px;
+    width: 98%;
+    
+    }
+    .search{
+    
+    font-size: 50px;
+    text-align: center;
+    
+    }
+    #words{
+    
+        font-style: oblique;
+    color: maroon;
+    text-align: center;
+    
+    }
+    
+    
+    .pera{
+    
+    color: rgba(4, 6, 10, 0.856);
+    font-style: normal;
+    
+    }
+    .box{
+    height: 380px;
+    width: 17%;
+    float: left;
+    margin: 4px;
+    
+    }
+    .image{
+    
+    height: 250px;
+    width: 180px;
+    
+    }
+    #price{
+        color: red;
+    }
+    #head{
+    color: gray;
+    
+    }
+    #buy{
+        background-color: orange;
+       
+    }
+    
